@@ -1,0 +1,9 @@
+Blink-Diff 1.0.13
+Copyright (C) 2014 Yahoo! Inc.
+Clipping to 3840 x 1894
+Images are visibly different
+1056882 pixels are different
+Wrote differences to /home/wilson/class/585/topic/maximized/result.png
+Time: 9791.361ms
+Differences: 1056882 (14.53%)
+FAIL
